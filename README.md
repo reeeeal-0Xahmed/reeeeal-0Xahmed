@@ -56,6 +56,9 @@
 </div>
 
 ###
+[![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcard.jacoblin.cool/0xahmedFR?theme=dark&font=Noto%20Sans%20Psalter%20Pahlavi&ext=activity))]
+
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmedabdelrouf/" target="_blank">
