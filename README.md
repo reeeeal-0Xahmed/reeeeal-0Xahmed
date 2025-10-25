@@ -56,7 +56,7 @@
 </div>
 
 ###
-[![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcard.jacoblin.cool/0xahmedFR?theme=dark&font=Noto%20Sans%20Psalter%20Pahlavi&ext=activity))]
+![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcode.com/u/0xahmedFR/))
 
 ###
 
