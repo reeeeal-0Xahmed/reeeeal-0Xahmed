@@ -56,7 +56,7 @@
 </div>
 
 ###
-![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcode.com/u/0xahmedFR/))
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)(https://leetcode.com/u/0xahmedFR/)
 
 ###
 
