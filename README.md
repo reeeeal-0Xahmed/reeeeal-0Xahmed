@@ -43,7 +43,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/raylib/000000" height="40" alt="raylib logo" />
+ <img src="https://raw.githubusercontent.com/raysan5/raylib/master/logo/raylib_128x128.png" height="40" alt="raylib cube" />
+
+  <img width="12" />
+
 </div>
 
 
